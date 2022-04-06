@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I think my _greatest **attribute** is I am a caring person and will always try my best to help those around me reach their goals._
